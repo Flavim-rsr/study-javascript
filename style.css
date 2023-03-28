@@ -1,8 +1,9 @@
 * {
     background-color: black;
-    
-
 }
-div {
-    --text-color: white;
+:root{
+    color: white;
+}
+button{
+    color: white;
 }
