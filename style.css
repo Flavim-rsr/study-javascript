@@ -1,12 +1,7 @@
-* {
+
+:root{
     background-color: black;
 }
-:root{
-    color: white;
-}
-button{
-    color: white;
-}
-input[type="number"]{
+body{
     color: white;
 }
