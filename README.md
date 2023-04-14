@@ -1,5 +1,6 @@
 <h1 align="center"> Trabalho JavaScript </h1>
 
+<p> Estudo JavaScript </p>
 
 <br>
 
