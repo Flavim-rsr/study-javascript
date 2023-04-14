@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito por<strong>Flavio Rodrigo</strong> - [Conheça o meu perfil(https://www.linkedin.com/in/flavio-rodrigo-462854270/)
+Feito por <strong> Flavio Rodrigo </strong> - [Conheça o meu perfil](https://www.linkedin.com/in/flavio-rodrigo-462854270/)
